@@ -8,19 +8,19 @@
     "text": "Chaitali Patel"
   },
   "text": {
-    "more": "Visulization of Location data for Linkdln. The nodes are Head category,sub category and location count and egdes are relstionship between them.",
-    "intro": "Spaced Lindkldn Data with Location",
-    "title": "Spaced Linkdln Database"
+    "more": "Visulization for Linkdln data",
+    "intro": "Visulization for Linkdln data",
+    "title": "Visulization for Linkdln data"
   },
   "legend": {
-    "edgeLabel": "Relationship",
-    "colorLabel": "Grey",
-    "nodeLabel": "Head category/ Sub category"
+    "edgeLabel": "Relationship bewtween nodes",
+    "colorLabel": "Red",
+    "nodeLabel": "Category/subcategory/name/profile link/email id"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "Modularity Class",
-    "hoverBehavior": "dim"
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "default"
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
